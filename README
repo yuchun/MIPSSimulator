@@ -1,0 +1,23 @@
+On my honor, I have neither given nor received unauthorized aid on this assignment. 
+
+Name: 		Yuchun Zhao
+Gatorlink:	dipsomania
+Email:		yuchun@cise.ufl.edu
+
+Instructions:
+1. compile:
+	make
+2. test:
+For disassembly,
+	java MIPSsim fibonacci_bin.bin fibonacci_out.txt dis
+Or,
+	make dis	
+For simulation,
+	java MIPSsim fibonacci_bin.bin fibonacci_out.txt sim [-Tm:n]
+Or,
+	make sim
+
+
+
+
+
